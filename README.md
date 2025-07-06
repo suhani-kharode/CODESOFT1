@@ -1,4 +1,4 @@
-# 🎯 Number Guessing Game (Java Console App)
+# 🎯 Number Guessing Game 
 
 This is a simple console-based **Number Guessing Game** written in Java. The user must guess a randomly generated number between 1 and 100 within a limited number of attempts.
 
